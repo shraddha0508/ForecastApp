@@ -8,7 +8,11 @@ namespace ForcastApp
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+
             // Shraddha's changes fixed
+
+            // Suyash's changes
+
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
